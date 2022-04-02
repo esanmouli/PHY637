@@ -22,3 +22,5 @@
 -   The effective potential and Lagrange points of the Sun-Earth system is given by:
 [Link text Here](http://inside.mines.edu/fs_home/tohno/teaching/PH505_2011/Paper_TianyuanGuan.pdf)
 
+![effPotential](effPotential.png)
+
